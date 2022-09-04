@@ -1,4 +1,3 @@
-from unicodedata import name
 from openpyxl import load_workbook
 import requests
 import time
